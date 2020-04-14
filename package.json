@@ -1,0 +1,24 @@
+{
+  "name": "bubble-scatter",
+  "version": "1.0.0",
+  "description": "Performs bubble un-sorting",
+  "main": "sort.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git.wukl.net:wukl/bubble-scatter"
+  },
+  "keywords": [
+    "bubble",
+    "sort",
+    "sort",
+    "un-sort"
+  ],
+  "author": "Luc Everse",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.3.0"
+  }
+}
